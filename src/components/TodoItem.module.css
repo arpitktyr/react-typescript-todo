@@ -16,3 +16,8 @@
   border-radius: 10px;
   cursor: pointer;
 }
+
+.deleteBtn:hover {
+  background: darkred;
+  border-color: darkred;
+}
